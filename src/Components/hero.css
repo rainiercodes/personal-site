@@ -1,0 +1,17 @@
+.hero-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 600px;
+    padding-left: 80px;
+    padding-right: 80px;
+    line-height: 1.2;
+    background-color: white;
+}
+
+.my-face {
+    height: 80%;
+    /* width: auto; */
+    object-fit: contain;
+}

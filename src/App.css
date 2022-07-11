@@ -1,0 +1,44 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f2f2f2;
+}
+
+.t-30 { 
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.t-14 {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.t-19-light { 
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.t-19-lighter { 
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.t-50-medium {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.t-50-semibold {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.t-80-bold {
+  font-size: 47px;
+  font-weight: 600;
+}
+
+button {
+  border-style: none;
+  background-color: white;
+}

@@ -1,0 +1,19 @@
+.about-me-container {
+    background-color: white;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 50px;
+    padding-left: 95px;
+    padding-right: 95px;
+    gap: 12px;
+}
+
+.tech-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+}

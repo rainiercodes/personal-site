@@ -1,0 +1,61 @@
+.worked-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.work-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    /* border-radius: 20px; */
+    padding-left: 60px;
+    max-width: 900px;
+}
+
+.work-text {
+    text-align: center;
+    width: 50%;
+}
+
+.mathly-bg {
+    background: linear-gradient(45deg, #B832FE, #6000D6);
+    color: white;
+}
+
+.white-bg {
+    background: white;
+}
+
+.space-bg {
+    background: #000;
+    color: white;
+}
+
+.mathly-img {
+    height: 300px;
+    align-self: flex-start;
+}
+
+.till-img {
+    height: 300px;
+    align-self: flex-start;
+    padding-left: 80px;
+}
+
+.space-img {
+    height: 250px;
+    padding-right: 40px;
+}

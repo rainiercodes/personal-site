@@ -1,0 +1,24 @@
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: white;
+}
+
+.center-btns {
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-btn {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+    font-weight: 300;
+}
