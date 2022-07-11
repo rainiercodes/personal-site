@@ -8,8 +8,18 @@ body {
   font-weight: 500;
 }
 
+.t-30-bold { 
+  font-size: 17px;
+  font-weight: 600;
+}
+
 .t-14 {
   font-size: 12px;
+  font-weight: 300;
+}
+
+.t-19-lighter { 
+  font-size: 14px;
   font-weight: 300;
 }
 
@@ -18,9 +28,9 @@ body {
   font-weight: 400;
 }
 
-.t-19-lighter { 
+.t-19-bold { 
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 600;
 }
 
 .t-50-medium {

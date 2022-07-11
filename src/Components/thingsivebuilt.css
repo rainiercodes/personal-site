@@ -1,11 +1,50 @@
 .thingsivebuilt-container {
     display: flex;
     flex-direction: column;
+    /* justify-content: center; */
     align-items: center;
+    gap: 15px;
+    margin-bottom: 50px;
+}
+
+.left-padding {
+    padding-left: 60px;
+}
+
+.right-padding {
+    padding-right: 60px;
 }
 
 .build-card {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    width: 65%;
+    height: 250px;
+}
+
+.build-text {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    /* padding-bottom: 60px; */
+}
+
+img{
+    /* width: auto; */
+    max-height: 100%;
+    /* object-fit: contain; */
+}
+
+.labintake-img{
+    margin-top: 45px;
+    margin-bottom: 25px;
+
+}
+
+.app-title {
+    margin-bottom: 5px;
 }
