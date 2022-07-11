@@ -14,7 +14,6 @@ export default function WhereIveWorked(props) {
                     <div className="t-50-medium">CEO, Software Engineer</div>
                     <div className="t-14">Sep 2019 - May 2021</div>
                     <div className="t-14">Provide software development support and consultation to startup teams and peers in areas of full stack web development.</div>
-
                 </div>
                 <img className="mathly-img" src={MathlyImg} alt=""/>
             </div>
