@@ -19,7 +19,7 @@ export default function ThingsIveBuilt(props) {
             <div className="build-card right-padding">
                 <img src={LabIntake} alt="" className="build-img labintake-img" />
                 <div className="build-text">
-                    <div className="t-30-bold app-title">Flower Power App</div>
+                    <div className="t-30-bold app-title">Google Sheets & ClickUp App</div>
                     <div className="t-14">Snap on a magnetic case, <br/>wallet, or both. And get faster<br/>wireless charging.</div>
                     <div className="t-14">iOS & Android App</div>
                 </div>

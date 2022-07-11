@@ -1,7 +1,14 @@
 .hero-container {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.content-container {
+    max-width: 900px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    gap: 200px;
     align-items: center;
     height: 600px;
     padding-left: 80px;

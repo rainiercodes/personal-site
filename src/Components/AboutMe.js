@@ -5,6 +5,7 @@ export default function AboutMe(props) {
 
     return (
         <div className="about-me-container">
+<div className="about-content-container">
             <div className="t-50-semibold">About Me</div>
             <div className="t-19-lighter">Hey! My name is Rainier. I’m a Software Developer and recent graduate from San Diego State Univeristy.
                 As a child I loved creating things whether that was making music, YouTube videos,  or designing logos -
@@ -22,5 +23,7 @@ export default function AboutMe(props) {
                 <div className="tech-col">TypeScript<br/>React Native<br/>Django</div>
             </div>
         </div>
+        </div>
+        
     )
 }
