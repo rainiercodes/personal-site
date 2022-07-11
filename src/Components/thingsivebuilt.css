@@ -23,6 +23,8 @@
     background-color: white;
     width: 65%;
     height: 250px;
+    max-width: 750px;
+
 }
 
 .build-text {
