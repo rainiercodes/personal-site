@@ -1,8 +1,10 @@
 body {
-  /* display: flex;
-  justify-content: center; */
+  /* display: flex; */
+  /* justify-content: center;
+  width: 100vw; */
   font-family: 'Poppins', sans-serif;
   background-color: #f2f2f2;
+  /* background-color: orange; */
 }
 
 .t-30 { 
