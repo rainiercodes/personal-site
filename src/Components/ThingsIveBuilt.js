@@ -11,17 +11,18 @@ export default function ThingsIveBuilt(props) {
             <div className="build-card left-padding">
                 <div className="build-text">
                     <div className="t-30-bold app-title">Flower Power App</div>
-                    <div className="t-14">Snap on a magnetic case, <br/>wallet, or both. And get faster<br/>wireless charging.</div>
-                    <div className="t-14">iOS & Android App</div>
+                    <div className="t-14">Stay connected to your plant’s needs. Get notified about water and ph levels in the app.</div>
+                    <div className="t-14">React Native App w/ Aurdino Integration</div>
                 </div>
                 <img src={FlowerPower} alt="" className="build-img" />
             </div>
             <div className="build-card right-padding">
                 <img src={LabIntake} alt="" className="build-img labintake-img" />
                 <div className="build-text">
-                    <div className="t-30-bold app-title">Google Sheets & ClickUp App</div>
-                    <div className="t-14">Snap on a magnetic case, <br/>wallet, or both. And get faster<br/>wireless charging.</div>
-                    <div className="t-14">iOS & Android App</div>
+                    <div className="t-30-bold app-title">ClickUp & Google Sheets
+Integration</div>
+                    <div className="t-14">Routes student form data to a google sheet then organizes it into your ClickUp Space.</div>
+                    <div className="t-14">React Web App  w/ Express Backend</div>
                 </div>
             </div>
         </div>
