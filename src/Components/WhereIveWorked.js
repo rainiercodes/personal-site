@@ -13,7 +13,7 @@ export default function WhereIveWorked(props) {
                 <div className="work-text">
                     <div className="t-50-medium">CEO, Software Engineer</div>
                     <div className="t-14">Sep 2019 - May 2021</div>
-                    <div className="t-14">Provide software development support and consultation to startup teams and peers in areas of full stack web development.</div>
+                    <div className="t-14">Led a team of 10 developers and business students <br/>in order to provide automated assistance to students on their algebra homework realtime.</div>
                 </div>
                 <img className="mathly-img" src={MathlyImg} alt=""/>
             </div>
@@ -24,7 +24,7 @@ export default function WhereIveWorked(props) {
                 <div className="work-text">
                     <div className="t-50-medium">iOS Developer (Intern)</div>
                     <div className="t-14">June 2021 - September 2021</div>
-                    <div className="t-14">Provide software development support and consultation to startup teams and peers in areas of full stack web development.</div>
+                    <div className="t-14">Integrated app with Twilio Voice API in order to provide<br/> automated calls to resturants. Provided UI/UX consultation using Figma and SwiftUI.</div>
                 </div>
             </div>
 
