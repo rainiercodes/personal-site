@@ -27,7 +27,10 @@
 }
 
 .work-text {
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    align-items: center;
     width: 50%;
 }
 
@@ -59,4 +62,8 @@
 .space-img {
     height: 250px;
     padding-right: 40px;
+}
+
+.subtext {
+    max-width: 340px;
 }

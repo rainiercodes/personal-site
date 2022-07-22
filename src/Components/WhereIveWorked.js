@@ -32,7 +32,7 @@ export default function WhereIveWorked(props) {
                 <div className="work-text">
                     <div className="t-50-medium">Software Engineer (Intern)</div>
                     <div className="t-14">October 2021 - June 2022</div>
-                    <div className="t-14">Provide software development support and consultation to startup teams and peers in areas of full stack web development.</div>
+                    <div className="t-14 subtext">Provided software development support<br/>and consultation to startup teams and interns, in areas of full stack web, and mobile development.</div>
                 </div>
 
                 <img className="space-img" src={ZIPImg} alt=""/>
