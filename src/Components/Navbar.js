@@ -10,7 +10,7 @@ export default function Navbar(props) {
             </div>
             <div className="center-btns">
                 <button>About</button>
-                <button>Resume</button>
+                <a className = "resume-btn t-19-light" href="rainiers-resume.pdf">Resume</a>
             </div>
             <div className="contact-btn">Contact</div>
         </div>
