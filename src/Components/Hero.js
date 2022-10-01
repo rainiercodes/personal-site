@@ -7,7 +7,6 @@ export default function Hero(props) {
         <div className="hero-container">
             <div className="content-container">
                 <div className="hero-text">
-                    <div className="t-30">Hey! My name is</div>
                     <div className="t-80-bold">Rainier <br/>Dirawatun</div>
                     <div className="t-30">I'm a Software Engineer</div>
                 </div>
